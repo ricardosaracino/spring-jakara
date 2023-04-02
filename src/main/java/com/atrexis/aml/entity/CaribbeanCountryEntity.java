@@ -1,6 +1,7 @@
 package com.atrexis.aml.entity;
 
 import jakarta.persistence.*;
+
 import java.util.Objects;
 
 @Entity

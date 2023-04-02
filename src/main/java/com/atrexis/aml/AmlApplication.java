@@ -9,5 +9,4 @@ public class AmlApplication {
     public static void main(String[] args) {
         SpringApplication.run(AmlApplication.class, args);
     }
-
 }
